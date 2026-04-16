@@ -5,11 +5,11 @@
 This project showcases fundamental Excel skills used in data analysis. It includes calculations, logical operations, conditional aggregations, and text manipulation techniques applied to a product dataset.
 
 🧾** Dataset Details**
-Total Products: **34**
-Dataset includes:
-Product ID
-Category
-Price
+-Total Products: **34**
+-Dataset includes:
+-Product ID
+-Category
+-Price
 
 🔢 Key Analysis Performed
  Sum, Count, Average
