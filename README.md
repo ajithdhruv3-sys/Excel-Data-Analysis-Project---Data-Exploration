@@ -65,5 +65,5 @@ This project is ideal for beginners learning:
 
 
 📎 Author
-**Dhruv Ajith**  
+**Ajith**  
 Aspiring Data Analyst | Excel | Power BI | SQL | Python
