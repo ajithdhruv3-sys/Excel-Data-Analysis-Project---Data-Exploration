@@ -1,15 +1,21 @@
 # Excel-Data-Analysis-Project---Data-Exploration
 📊 Excel Data Analysis Project
 
-📌 Overview
+**📌 Overview**
 This project showcases fundamental Excel skills used in data analysis. It includes calculations, logical operations, conditional aggregations, and text manipulation techniques applied to a product dataset.
 
-🧾** Dataset Details**
--Total Products: **34**
--Dataset includes:
--Product ID
--Category
--Price
+This project analyzes a product sales dataset containing details like product name, price, quantity, category, and country.
+It focuses on understanding sales performance across different regions and time periods.
+The goal is to extract meaningful insights using data analysis tools like Excel.
+
+The project helps identify which products, categories, and regions perform better in terms of sales.
+It addresses the lack of clear visibility into pricing trends and sales distribution.
+It also helps in understanding high-value vs standard-value product performance.
+
+This analysis supports better decision-making for sales and business strategy.
+It helps businesses optimize pricing, inventory, and product focus.
+Ultimately, it improves profitability by identifying key trends and opportunities.
+
 
 🔢 Key Analysis Performed
  Sum, Count, Average
@@ -52,19 +58,12 @@ Created new columns from **Product ID**:
 
 ---
 
-## 📈 Use Case
+📈 Use Case
 This project is ideal for beginners learning:
 - Excel basics for data analysis
 - Business data interpretation
-- Preparing datasets for dashboards (Power BI / Tableau)
 
----
 
-🚀 Future Enhancements
-- Add Pivot Tables for better summarization
-- Create interactive dashboards
-- Integrate with Power BI for visualization
-
-## 📎 Author
+📎 Author
 **Dhruv Ajith**  
 Aspiring Data Analyst | Excel | Power BI | SQL | Python
